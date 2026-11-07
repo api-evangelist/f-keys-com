@@ -1,4 +1,4 @@
-# f-keys-com
+# F-Keys Creative LLC
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-f-keys-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://f-keys.com/
+F-Keys Creative LLC is a one‑person software studio based in Punta Gorda, Florida. It builds and runs websites for small businesses and creates tools that verify claims against public records, such as property listings, publication records, and interface specifications. Services include custom website development, website audits, and specialized verification tools like Authorecon and LOTFILE. The studio emphasizes transparent pricing and direct communication with clients.
+
+**Areas:** Software Studio · Web Development · Verification Tools · Florida · Small Business
+
+## F-Keys Creative LLC on APIs.io
+
+Everything profiled for F-Keys Creative LLC is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/f-keys-com/](https://apis.io/providers/f-keys-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [F-Keys Creative LLC Measurement tables API](https://apis.io/apis/f-keys-com/f-keys-com-measurement-tables-api/) — Published measurements of what formal mathematical libraries rest on. Each table carries its own version, sha256 and series DOI.
+- [F-Keys Creative LLC Status API](https://apis.io/apis/f-keys-com/f-keys-com-status-api/) — The daily snapshot behind the status page: uptime, package installs, paper views and aggregate site traffic.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [F Keys Com Agentic Access](https://apis.io/agentic-access/f-keys-com/f-keys-com-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [F Keys Com Openapi Overlay](https://apis.io/overlays/f-keys-com/f-keys-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [F-Keys Creative LLC API Rules](https://apis.io/rules/f-keys-com/f-keys-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [F Keys Com Authentication](https://apis.io/security/f-keys-com/f-keys-com-authentication/)
+- [F Keys Com Domain Security](https://apis.io/security/f-keys-com/f-keys-com-domain-security/)
+- [F Keys Com Vulnerability Disclosure](https://apis.io/security/f-keys-com/f-keys-com-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [F Keys Com Rate Limits](https://apis.io/rate-limits/f-keys-com/f-keys-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://f-keys.com/)
+- [Getting started](https://f-keys.com/intake/)
+- [API reference](https://f-keys.com/developers.html)
+- [Pricing](https://f-keys.com/)
+- [Sign up](https://f-keys.com/intake/)
+- [Support](https://f-keys.com/contact.html)
+- [Security](https://f-keys.com/contact.html)
+- [Privacy policy](https://f-keys.com/privacy.html)
+- [GitHub](https://github.com/vince-gonzalez)
+- [Status](https://f-keys.com/status/)
+
+## API Evangelist rating
+
+**Kin Score 48.4** — developing · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 46.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 34.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/f-keys-com/](https://apis.io/providers/f-keys-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for F-Keys Creative LLC: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/f-keys-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
